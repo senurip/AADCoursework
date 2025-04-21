@@ -92,12 +92,13 @@ CEE is integrated with the **PayHere** payment gateway to allow secure online pa
    ```bash
    git clone https://github.com/your-username/ceylon-easy-explore.git
    cd ceylon-easy-explore
-![Screenshot 2025-04-21 143416](https://github.com/user-attachments/assets/cc3176c1-d394-42b2-bfd4-0928305eecc3)
+
 
 ![Screenshot 2025-04-21 143329](https://github.com/user-attachments/assets/ae038692-9759-48fa-b4d7-76b45baabb5c)
+![Screenshot 2025-04-21 143416](https://github.com/user-attachments/assets/cc3176c1-d394-42b2-bfd4-0928305eecc3)
 ![Screenshot 2025-04-21 143430](https://github.com/user-attachments/assets/8895bc75-d7f1-4e49-b832-6113798082ad)
-![Screenshot 2025-04-21 143449](https://github.com/user-att![Screenshot 2025-04-21 143511](https://github.com/user-attachments/assets/6627c866-cdb3-4533-9c43-e3fa31ce5cba)
-achments/assets/1647c20b-cfb2-4f5f-b613-406aad5c3682)![Screenshot 2025-04-21 150920](https://github.com/user-attachments/assets/63ea8891-f289-4c12-b4e7-569baa060890)
+![Screenshot 2025-04-21 143449](https://github.com/user-attachments/assets/1f89f39d-7def-4667-b97a-a3bc2d2a53a1)
+
 ![Screenshot 2025-04-21 150939](https://github.com/user-attachments/assets/45fd83cf-c309-4d33-876d-091b9bdaf27e)
 
 ![Screenshot 2025-04-21 145626](https://github.com/user-attachments/assets/49c08e3b-2883-4760-a7c2-562d2a2c2352)
