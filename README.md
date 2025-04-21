@@ -67,31 +67,47 @@ CEE is integrated with the **PayHere** payment gateway to allow secure online pa
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/ceylon-easy-explore.git
+   git clone (https://github.com/senurip/AADCoursework.git)
    cd ceylon-easy-explore
+   Configure MySQL Database
 
----
+Create a new database (e.g., cee_db)
 
-## 🔐 JWT Authentication
+Update application.properties:
 
-CEE uses **JWT (JSON Web Tokens)** for secure and stateless authentication. After logging in, users receive a token which must be included in headers for accessing protected endpoints. This ensures secure, scalable user sessions.
+properties
+Copy
+Edit
+spring.datasource.url=jdbc:mysql://localhost:3306/cee_db
+spring.datasource.username=your_mysql_username
+spring.datasource.password=your_mysql_password
+Run the App
 
----
+bash
+Copy
+Edit
+mvn spring-boot:run
+Access in Browser
 
-## 💳 PayHere Payment Integration
+arduino
+Copy
+Edit
+http://localhost:8080
 
-CEE is integrated with the **PayHere** payment gateway to allow secure online payments for travel bookings. Users can easily complete transactions using cards, mobile wallets, or bank accounts — with confirmation and booking status updated in real-time.
+**📌 Future Improvements**
+Add Google Maps integration for destination previews
 
-> For testing, sandbox credentials are configured. Replace them with your production keys when deploying live.
+Enable user reviews and ratings for each travel plan
 
----
+Wishlist / Trip planner module
 
-## ⚙️ How to Run the Project
+Admin analytics dashboard
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/ceylon-easy-explore.git
-   cd ceylon-easy-explore
+👨‍💻 Developed By
+Your Name – Senuri Rajapaksha
+
+📄 License
+This project is developed for educational and demo purposes. All code is open for learning and non-commercial use.
 
 
 ![Screenshot 2025-04-21 143329](https://github.com/user-attachments/assets/ae038692-9759-48fa-b4d7-76b45baabb5c)
