@@ -35,11 +35,11 @@
 ## 🛠️ Tech Stack
 
 - **Backend**: Java, Spring Boot, Hibernate, JDBC
-- **Frontend**: HTML, CSS, Bootstrap
+- **Frontend**: HTML, CSS, Js
 - **Security**: Spring Security, JWT
 - **Payment Gateway**: [PayHere.lk](https://www.payhere.lk)
 - **Database**: MySQL
-- **Architecture**: MVC (Model-View-Controller)
+- **Architecture**: Layered Architecture
 
 ---
 
@@ -89,7 +89,6 @@ Edit
 mvn spring-boot:run
 Access in Browser
 
-arduino
 Copy
 Edit
 http://localhost:8080
