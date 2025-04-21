@@ -5,7 +5,19 @@ Watch Demo Video On YouTube:- https://youtu.be/N4NQPd-CTEQ
 **Ceylon Easy Explore (CEE)** is a full-featured travel planner web application designed to make travel across Sri Lanka easier, smarter, and more enjoyable. Users can explore curated travel packages, discover hotels and restaurants, and book experiences securely — all through one unified platform.
 
 ---
+![Screenshot 2025-04-21 143329](https://github.com/user-attachments/assets/ae038692-9759-48fa-b4d7-76b45baabb5c)
+![Screenshot 2025-04-21 143416](https://github.com/user-attachments/assets/cc3176c1-d394-42b2-bfd4-0928305eecc3)
+![Screenshot 2025-04-21 143430](https://github.com/user-attachments/assets/8895bc75-d7f1-4e49-b832-6113798082ad)
+![Screenshot 2025-04-21 143449](https://github.com/user-attachments/assets/1f89f39d-7def-4667-b97a-a3bc2d2a53a1)
 
+![Screenshot 2025-04-21 150939](https://github.com/user-attachments/assets/45fd83cf-c309-4d33-876d-091b9bdaf27e)
+
+![Screenshot 2025-04-21 145626](https://github.com/user-attachments/assets/49c08e3b-2883-4760-a7c2-562d2a2c2352)
+![Screenshot 2025-04-21 145644](https://github.com/user-attachments/assets/4d1af20e-9f97-42d6-9569-ff8691b2c024)
+![Screenshot 2025-04-21 145742](https://github.com/user-attachments/assets/c7a21c70-dfb0-406c-a9f1-f914def6ef72)
+![Screenshot 2025-04-21 145806](https://github.com/user-attachments/assets/87a4630e-d362-48fc-a037-8ead893d6596)
+
+![Screenshot 2025-04-21 145828](https://github.com/user-attachments/assets/07e8226f-863f-4e47-bb80-16ee932d1923)
 ## 🚀 Features
 
 - 🧳 **Travel Package Browsing**  
@@ -111,16 +123,4 @@ Your Name – Senuri Rajapaksha
 This project is developed for educational and demo purposes. All code is open for learning and non-commercial use.
 
 
-![Screenshot 2025-04-21 143329](https://github.com/user-attachments/assets/ae038692-9759-48fa-b4d7-76b45baabb5c)
-![Screenshot 2025-04-21 143416](https://github.com/user-attachments/assets/cc3176c1-d394-42b2-bfd4-0928305eecc3)
-![Screenshot 2025-04-21 143430](https://github.com/user-attachments/assets/8895bc75-d7f1-4e49-b832-6113798082ad)
-![Screenshot 2025-04-21 143449](https://github.com/user-attachments/assets/1f89f39d-7def-4667-b97a-a3bc2d2a53a1)
 
-![Screenshot 2025-04-21 150939](https://github.com/user-attachments/assets/45fd83cf-c309-4d33-876d-091b9bdaf27e)
-
-![Screenshot 2025-04-21 145626](https://github.com/user-attachments/assets/49c08e3b-2883-4760-a7c2-562d2a2c2352)
-![Screenshot 2025-04-21 145644](https://github.com/user-attachments/assets/4d1af20e-9f97-42d6-9569-ff8691b2c024)
-![Screenshot 2025-04-21 145742](https://github.com/user-attachments/assets/c7a21c70-dfb0-406c-a9f1-f914def6ef72)
-![Screenshot 2025-04-21 145806](https://github.com/user-attachments/assets/87a4630e-d362-48fc-a037-8ead893d6596)
-
-![Screenshot 2025-04-21 145828](https://github.com/user-attachments/assets/07e8226f-863f-4e47-bb80-16ee932d1923)
